@@ -51,9 +51,3 @@
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brunobaldiga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak"/>
-</div>
