@@ -12,8 +12,6 @@
 
 ## About Me
 
-I'm Bruno, a backend developer from Brazil.
-
 - Currently looking for Junior Backend Developer opportunities.
 - Building backend applications with Java, Spring Boot and PostgreSQL.
 - AWS Certified Cloud Practitioner.
