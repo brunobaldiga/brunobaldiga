@@ -8,7 +8,6 @@ Building backend applications with Java, Spring Boot, and PostgreSQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-baldiga-042836269/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunobaldiga@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunobaldiga)
 
 </div>
 
@@ -40,8 +39,6 @@ A REST API for an online learning platform, built using a **modular monolith arc
 
 **Tech Stack:** Java 21 · Spring Boot 4 · Spring Security · PostgreSQL · Flyway · Docker · JUnit · Testcontainers · GitHub Actions
 
-[Repository](https://github.com/brunobaldiga/learnhub) · [Live API / Swagger UI](https://learnhub-8zwy.onrender.com/swagger-ui/index.html)
-
 ### [Java Bank](https://github.com/brunobaldiga/java-bank)
 
 A banking application developed to strengthen Core Java, object-oriented programming, and software architecture skills.
@@ -53,8 +50,6 @@ A banking application developed to strengthen Core Java, object-oriented program
 - JavaFX desktop interface planned.
 
 **Tech Stack:** Java 21 · JPA · Hibernate · PostgreSQL · Flyway · HikariCP · Docker Compose
-
-[Repository](https://github.com/brunobaldiga/java-bank)
 
 ---
 
@@ -87,14 +82,4 @@ A banking application developed to strengthen Core Java, object-oriented program
 
 **AWS Certified Cloud Practitioner**
 
-[View verified credential](https://www.credly.com/badges/13ddaa89-5d5d-446d-91cf-bf3d49fd5bef/public_url)
-
----
-
-<div align="center">
-
-**Open to Junior Java Backend Developer opportunities.**
-
-[LinkedIn](https://www.linkedin.com/in/bruno-baldiga-042836269/) · [Email](mailto:brunobaldiga@gmail.com)
-
-</div>
+[View certificate](https://www.credly.com/badges/13ddaa89-5d5d-446d-91cf-bf3d49fd5bef/public_url)
